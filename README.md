@@ -1,4 +1,4 @@
-# local
+c# local
 this is my first git repository
 <br>
-Author-lakshay
+Author-lakshay Tandon (developer)
